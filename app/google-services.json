@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "934160195519",
+    "firebase_url": "https://guardian-d5a0b.firebaseio.com",
+    "project_id": "guardian-d5a0b",
+    "storage_bucket": "guardian-d5a0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934160195519:android:5b93f40532ae4379",
+        "android_client_info": {
+          "package_name": "lohith.com.guardian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934160195519-32ngj14rrkbdhgr303npigmaprcp15bl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lohith.com.guardian",
+            "certificate_hash": "0893054f6d844194cfe4f611f787b5aef5a37abe"
+          }
+        },
+        {
+          "client_id": "934160195519-22dfaidi4esmodend99b51f172qte6h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2wq7pCJsQ4mGgRflaOpdkLYOR906UTpI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934160195519-22dfaidi4esmodend99b51f172qte6h9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
